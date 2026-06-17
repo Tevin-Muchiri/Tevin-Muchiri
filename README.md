@@ -4,27 +4,25 @@
 
 # Hi, I'm Tevin Muchiri
 
-Computer Science student at Strathmore University focused on **Cybersecurity, Artificial Intelligence, and Secure Software Engineering**. I’m interested in building systems that are not only intelligent, but also resilient, secure, and reliable in real-world environments.
-
-My work sits at the intersection of **machine learning and cybersecurity**, with a growing interest in secure system design, threat-aware applications, and applied AI.
+Computer Science student at Strathmore University focused on **Cybersecurity, Artificial Intelligence, and Secure Software Engineering**. I am passionate about designing systems that are both intelligent and secure, with a strong emphasis on real-world reliability and safe software practices.
 
 ---
 
 ## Focus Areas
 
-- Cybersecurity fundamentals (network security, authentication, secure design)
-- Machine Learning & Artificial Intelligence
+- Cybersecurity (secure systems, authentication, network security)
+- Artificial Intelligence & Machine Learning
 - Secure software engineering principles
-- Cloud & system security concepts
-- IoT system security (embedded + cloud communication)
+- Cloud and system architecture
+- IoT and embedded systems security
 
 ---
 
 ## Current Work
 
-- 🔭 **SecureCare** – AI-based caregiver competency assessment system using SentenceTransformer embeddings and Random Forest classification, with focus on secure data handling and reliable inference pipelines.
-- 🌱 Exploring applied cybersecurity concepts including secure APIs, authentication flows, and basic cryptographic systems.
-- ⚙️ Building small AI/ML projects to strengthen model understanding and deployment skills.
+- 🔭 **SecureCare** – AI-based caregiver competency assessment system using SentenceTransformer embeddings and Random Forest classification.
+- 🌱 Exploring secure API design, authentication systems, and applied cryptography concepts.
+- ⚙️ Building machine learning and software engineering projects to strengthen practical skills.
 
 ---
 
@@ -33,7 +31,7 @@ My work sits at the intersection of **machine learning and cybersecurity**, with
 ### Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DFE?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ---
 
@@ -42,39 +40,29 @@ My work sits at the intersection of **machine learning and cybersecurity**, with
 <img src="https://img.shields.io/badge/Network_Security-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Secure_Coding-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Authentication_Systems-6A1B9A?style=for-the-badge" />
 
 ---
 
-### AI / Machine Learning
+### AI / ML
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
 
 ---
 
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tevin-Muchiri&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tevin-Muchiri&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
+</p>
 
 ---
 
-## Featured Projects
-
-### SecureCare (Flagship Project)
-AI-powered competency assessment system using NLP embeddings and machine learning classification. Focused on structured decision-making and secure handling of user data in intelligent systems.
-
-### Secure Systems Experiments
-Small projects exploring authentication systems, secure APIs, and foundational cryptography concepts applied in software development.
-
-### Machine Learning Labs
-Hands-on experiments in classification, feature engineering, and model evaluation using Python ML libraries.
-
----
-
-## GitHub Activity
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tevin-Muchiri&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" />
@@ -82,11 +70,13 @@ Hands-on experiments in classification, feature engineering, and model evaluatio
 
 ---
 
-## Philosophy
+## Featured Projects
 
-> “Security is not a feature. It is a design principle.”
+### SecureCare (Flagship Project)
+AI-powered system for competency assessment using NLP embeddings and machine learning classification, designed with secure data handling principles.
 
-I believe modern systems must be designed with security and intelligence as core foundations, not afterthoughts.
+### Secure Systems Experiments
+Projects exploring authentication, secure APIs, and foundational cryptography concepts.
 
 ---
 
