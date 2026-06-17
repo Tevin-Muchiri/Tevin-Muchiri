@@ -2,19 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=SECURE%20SYSTEMS%20%7C%20AI%20%7C%20CYBERSECURITY&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20software%20systems&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi, I'm Tevin Muchiri
+# Hi, I'm Tevin Muchiri Ngiru
 
-Computer Science student at Strathmore University focused on **Cybersecurity, Artificial Intelligence, and Secure Software Engineering**. I am passionate about designing systems that are both intelligent and secure, with a strong emphasis on real-world reliability and safe software practices.
+Computer Science student at Strathmore University focused on **Cybersecurity, Artificial Intelligence, and Machine Learning**. I am passionate about designing systems that are both intelligent and secure, with a strong emphasis on real-world reliability and safe software practices. I am also a big enthusiast of Machine Learning and Cybersecurity and trying to interlink the two.
 
 ---
 
 ## Focus Areas
 
-- Cybersecurity (secure systems, authentication, network security)
-- Artificial Intelligence & Machine Learning
-- Secure software engineering principles
-- Cloud and system architecture
-- IoT and embedded systems security
+- Cybersecurity
+- Artificial Intelligence
+- Machine Learning
 
 ---
 
@@ -33,13 +31,16 @@ Computer Science student at Strathmore University focused on **Cybersecurity, Ar
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
+
 ---
 
 ### Cybersecurity & Systems
 <img src="https://img.shields.io/badge/Cybersecurity-1F4E79?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Network_Security-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Secure_Coding-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security_Assurance-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOC_Analysis-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Secure_Coding-2E8B57?style=for-the-badge" />
+
 
 ---
 
