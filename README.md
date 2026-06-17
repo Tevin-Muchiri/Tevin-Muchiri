@@ -79,6 +79,16 @@ AI-powered system for competency assessment using NLP embeddings and machine lea
 ### Secure Systems Experiments
 Projects exploring authentication, secure APIs, and foundational cryptography concepts.
 
+### Accelerated Learning Pedagogy (ALP) – Academic Management System
+A web-based Academic Management System designed to support the ALP programme, which focuses on improving English speaking skills for learners in Grades 3–7, particularly in marginalized communities.
+
+The system manages **attendance, grading, and learning materials/notes** across multi-day programme sessions, enabling structured tracking of learner progress and programme effectiveness.
+
+Key focus areas:
+- Centralized student attendance tracking across sessions
+- Grade and performance management
+- Structured distribution and storage of learning notes
+- Support for multi-day programme scheduling and tracking
 ---
 
 ## Connect With Me
