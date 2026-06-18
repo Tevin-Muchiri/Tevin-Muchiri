@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=SECURE%20SYSTEMS%20%7C%20AI%20%7C%20CYBERSECURITY&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20software%20systems&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=SECURE%20SYSTEMS%20ENGINEERING%20%7C%20AI%20%7C%20CYBERSECURITY&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=SOC%20%7C%20Security%20Assurance%20%7C%20Machine%20Learning%20Applications&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi, I'm Tevin Muchiri Ngiru
