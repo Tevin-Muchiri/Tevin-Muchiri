@@ -34,19 +34,19 @@ Computer Science student at Strathmore University focused on **Cybersecurity, Ar
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 **Backend:**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 **Databases:**  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 **Cybersecurity & Systems:**  
 <img src="https://img.shields.io/badge/Cybersecurity-1F4E79?style=for-the-badge" /> <img src="https://img.shields.io/badge/Network_Security-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Security_Assurance-6A1B9A?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOC_Analysis-8B0000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Secure_Coding-2E8B57?style=for-the-badge" />
 
+**AI / Machine Learning:**  
+<img src="https://img.shields.io/badge/Supervised_Learning-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Unsupervised_Learning-6A5ACD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
+
 **Cloud & DevOps:**  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-**AI / Machine Learning:**  
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
 ---
 
 ## GitHub Statistics
