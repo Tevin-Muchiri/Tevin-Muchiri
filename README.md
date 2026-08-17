@@ -52,12 +52,17 @@ Computer Science student at Strathmore University focused on **Cybersecurity, Ar
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tevin-Muchiri&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&hide=stars" />
+  <img src="https://github-stats-tevin.vercel.app/api?username=Tevin-Muchiri&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&hide=stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-tevin.vercel.app/api/top-langs/?username=Tevin-Muchiri&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tevin-Muchiri&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## Activity Graph
@@ -67,7 +72,6 @@ Computer Science student at Strathmore University focused on **Cybersecurity, Ar
 </p>
 
 ---
-
 ## Featured Projects
 
 ### SecureCare (Flagship Project)
